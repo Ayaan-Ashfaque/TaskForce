@@ -23,9 +23,9 @@ TaskForce allows users to deploy their daily tasks, view them in an execution da
 
 ```text
 
-│
-├── main.py
-├── README.md
+
+── main.py
+── README.md
 
 ```
 
