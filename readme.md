@@ -22,11 +22,11 @@ TaskForce allows users to deploy their daily tasks, view them in an execution da
 ## Project Structure
 
 ```text
-TaskForce/
+
 │
 ├── main.py
 ├── README.md
-└── .gitignore
+
 ```
 
 ## Installation & Usage
